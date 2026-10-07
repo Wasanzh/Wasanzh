@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Wasan 👋
 
-<!--
-**Wasanzh/Wasanzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Umm Al-Qura University** (Class of 2028), based in Jeddah, Saudi Arabia.
+I enjoy building practical, smart solutions — especially in AI and security.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+**Languages:** Python · Java · C++ · SQL · HTML  
+**Tools:** Git · Linux  
+**Spoken:** Arabic · English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Nibras (نبراس)** — Smart assistant bot inside Absher, built at Tuwaiq's Absher Hackathon
+- **Guardians of Heritage (حماة الأثر)** — Team project to protect archaeological sites from illegal excavation (SAIF 2026)
+- **Arabic RTL Document Generator** — Python tool for generating properly formatted Arabic DOCX/PDF documents
+
+## 📫 Contact
+- Email: wyzh444@gmail.com
