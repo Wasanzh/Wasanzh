@@ -11,7 +11,6 @@ I enjoy building practical, smart solutions — especially in AI and security.
 ## 🚀 Projects
 - **Nibras (نبراس)** — Smart assistant bot inside Absher, built at Tuwaiq's Absher Hackathon
 - **Guardians of Heritage (حماة الأثر)** — Team project to protect archaeological sites from illegal excavation (SAIF 2026)
-- **Arabic RTL Document Generator** — Python tool for generating properly formatted Arabic DOCX/PDF documents
 
 ## 📫 Contact
 - Email: wyzh444@gmail.com
