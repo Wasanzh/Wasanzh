@@ -9,7 +9,7 @@ I enjoy building practical, smart solutions — especially in AI and security.
 **Spoken:** Arabic · English
 
 ## 🚀 Projects
-- **Nibras (نبراس)** — Smart assistant bot inside Absher, built at Tuwaiq's Absher Hackathon
+- **[Nibras (نبراس)](https://github.com/Wasanzh/nibras)** — Smart Arabic assistant that guides users to Absher services, built at Tuwaiq's Absher Hackathon
 - **Guardians of Heritage (حماة الأثر)** — Team project to protect archaeological sites from illegal excavation (SAIF 2026)
 
 ## 📫 Contact
