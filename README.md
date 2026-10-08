@@ -14,4 +14,4 @@ I enjoy building practical, smart solutions — especially in AI and security.
 - **Guardians of Heritage (حماة الأثر)** — Team project to protect archaeological sites from illegal excavation (SAIF 2026)
 
 ## 📫 Contact
-- Email: wyzh444@gmail.com
+- Email: wasan.y.alzahrani@gmail.com
